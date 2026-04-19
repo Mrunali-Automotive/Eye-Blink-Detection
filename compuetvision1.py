@@ -10,7 +10,7 @@ from imutils import face_utils
 
 # from imutils import
 
-cam = cv2.VideoCapture('assets/my_blink.mp4')
+cam = cv2.VideoCapture('Mrunali.mp4')
 
 # defining a function to calculate the EAR
 def calculate_EAR(eye):
